@@ -1,0 +1,1 @@
+﻿SELECT T1, T2 FROM Table_1 WHERE Time_data = '2018-07-23 07:30:00'

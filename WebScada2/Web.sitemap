@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="~/Default.aspx" title="Home"  description="">
+
+    <siteMapNode url="~/Room_1/Default.aspx" title="Room 1"  description="" >
+    <siteMapNode url="~/Room_1/Machine1_1.aspx" title="Machine 1_1"  description="" />
+    <siteMapNode url="~/Room_1/Machine1_2.aspx" title="Machine 1_2"  description="" />
+    <siteMapNode url="~/Room_1/Machine1_3.aspx" title="Machine 1_3"  description="" />
+    </siteMapNode>
+
+    <siteMapNode url="~/Room_2/Default.aspx" title="Room 2"  description="">
+      <siteMapNode url="~/Room_2/Machine2_1.aspx" title="Machine 2_1"  description="" />
+      <siteMapNode url="~/Room_2/Machine2_2.aspx" title="Machine 2_2"  description="" />
+    </siteMapNode>
+  
+  </siteMapNode>
+</siteMap>
