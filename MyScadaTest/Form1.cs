@@ -30,7 +30,7 @@ namespace MyScadaTest
         private float Random4;
 
         //строка подключения к БД
-        //static string conStr = @"Data Source=EVGENIYHOME,33678\SQLEXPRESS;Initial Catalog=MyDB; User ID=sa; Password=123";
+        
         static string conStr = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=D:\Project VS\MyScadaTest _v1.4\MyScadaTest\Database1.mdf;Integrated Security=True";
 
         //таймер для обновления данных на экране
